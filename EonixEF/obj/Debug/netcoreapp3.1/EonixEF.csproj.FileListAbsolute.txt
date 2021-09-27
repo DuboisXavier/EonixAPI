@@ -1,0 +1,12 @@
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\bin\Debug\netcoreapp3.1\EonixEF.deps.json
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\bin\Debug\netcoreapp3.1\EonixEF.dll
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\bin\Debug\netcoreapp3.1\EonixEF.pdb
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.csprojAssemblyReference.cache
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.AssemblyInfoInputs.cache
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.AssemblyInfo.cs
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.csproj.CoreCompileInputs.cache
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.dll
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.pdb
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\bin\Debug\netcoreapp3.1\EonixEF.runtimeconfig.json
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\bin\Debug\netcoreapp3.1\EonixEF.runtimeconfig.dev.json
+C:\Users\hilys\source\repos\EonixAPI\EonixEF\obj\Debug\netcoreapp3.1\EonixEF.genruntimeconfig.cache
