@@ -1,4 +1,4 @@
-# EonixAPI
+# API Entity Framework
 CRUD sur une table personne , API en ASP.Core 3.1 et Entity Framework en code first.
 
 Pour l'ajout et la mise à jour d'une personne, si l'utilisateur venait à ne pas respecter la casse, le service qui correspond
