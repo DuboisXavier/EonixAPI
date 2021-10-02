@@ -11,6 +11,4 @@ Les filtres sur le nom et le prénom fonctionne de la manière, exemple : pour r
 - "lie"
 - "Lie" fonctionnent
 
-Le projet "test" pour les tests unitaires est bien présent dans la solution, je n'ai cependant pas réussis à les rendre fonctionnels.
-Je n'ai jamais eu l'occasion de pratiquer les tests, je vais cependant faire ce qu'il faut pour remédier à ceci.
 
